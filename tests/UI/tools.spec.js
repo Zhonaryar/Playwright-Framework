@@ -39,7 +39,7 @@ test('Bying pliers', async ({page}) => {
     await page.fill('#city', 'Merrylands'); 
     await page.locator('#state').fill('NSW');
     await page.locator('#country').selectOption('AU'); 
-    await page.fill('#phone', '240-360-7879'); 
+    await page.fill('#phone', '2408607879'); 
     await page.fill('#email', 'Jigar@gmail.com'); 
     await page.fill('#password', 'WeAreJigars@143'); 
     await page.click("button[type='submit']"); 
