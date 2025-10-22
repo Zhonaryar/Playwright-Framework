@@ -1,0 +1,5 @@
+Status code: 500
+Response: {
+  code: 500,
+  message: 'There was an error processing your request. It has been logged (ID: 315ab33abdb435a8)'
+}

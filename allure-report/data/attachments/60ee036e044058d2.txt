@@ -1,0 +1,2 @@
+Status code: 404
+Response: { code: 404, message: 'HTTP 404 Not Found' }
