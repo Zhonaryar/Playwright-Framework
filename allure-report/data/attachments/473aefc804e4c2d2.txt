@@ -1,0 +1,2 @@
+new tab url: https://www.hyrtutorials.com/p/alertsdemo.html
+Alert message: I am an alert box!
